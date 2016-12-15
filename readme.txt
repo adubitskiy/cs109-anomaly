@@ -1,4 +1,4 @@
-Martingale Based Anomaly Detection in Stock Market Data?
+### Martingale Based Anomaly Detection in Stock Market Data?
 
 cs109/dataloader.py - python code to load all the data sources and build the main data set
 cs109/model.py - python implementation of our main class
