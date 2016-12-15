@@ -1,4 +1,6 @@
-cs109/dataloader.py - pyhton code to load all thhe data sources and build the main data set
+Martingale Based Anomaly Detection in Stock Market Data?
+
+cs109/dataloader.py - python code to load all the data sources and build the main data set
 cs109/model.py - python implementation of our main class
 
 datasets/DFF.csv - federal funds rate
