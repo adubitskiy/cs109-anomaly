@@ -1,0 +1,4 @@
+cs109/dataloader.pyc
+*.pyc
+.ipynb_checkpoints/cs109_anomaly_data-checkpoint.ipynb
+.ipynb_checkpoints/cs109_anomaly_method-checkpoint.ipynb
